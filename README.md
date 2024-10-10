@@ -84,6 +84,3 @@ Se você digitar `sair`, o programa será encerrado e os filmes pesquisados ser�
 ## Licença
 
 Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
-
-Esse `README.md` explica como o projeto funciona, como configurar, compilar e executar, além de fornecer exemplos de saída e sugestões de melhoria. Ajuste conforme necessário para seu projeto específico.
