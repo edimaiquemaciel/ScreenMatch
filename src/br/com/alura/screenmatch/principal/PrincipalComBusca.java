@@ -33,7 +33,7 @@ public class PrincipalComBusca {
             if (busca.equalsIgnoreCase("sair")){
                 break;
             }
-            String endereco = "https://www.omdbapi.com/?t=" + busca.replace(" ", "+") + "&apikey=2d91f086";
+            String endereco = "https://www.omdbapi.com/?t=" + busca.replace(" ", "+") + "&apikey=SUA_CHAVE_API";
             try {
                 HttpClient client = HttpClient.newHttpClient();
                 HttpRequest request = HttpRequest.newBuilder()
